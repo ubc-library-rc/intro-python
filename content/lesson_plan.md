@@ -40,6 +40,7 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 _Actual schedule may vary depending on group needs_
 
+<img src="{{site.baseurl}}/content/figures/xkcd-python.png"> [source](https://xkcd.com/353/)
 
 
 

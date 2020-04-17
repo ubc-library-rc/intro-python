@@ -32,4 +32,3 @@ ___
 
     * You can find setup instructions [here](https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/)
 
-<img src="{{site.baseurl}}/content/figures/xkcd-python.png"> [source](https://xkcd.com/353/)
