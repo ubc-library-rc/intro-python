@@ -17,9 +17,6 @@ Please bring a laptop for the workshop. You **don't** need to have Python instal
 
     * You will need a CWL login to access syzygy
 
-        * Unfortunately, we are not aware of other online Python tools using the UBC infra structure
-
-
 
 1. Download the data for this workshop and save it in a folder of your preference
 
