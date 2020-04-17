@@ -7,5 +7,3 @@ aux_links:
     - "https://researchcommons.library.ubc.ca/workshops/"
 heading_anchors: false
 footer_content: "<a href=\"https://github.com/ubc-library-rc/intro-python/\">View workshop content in GitHub</a>"
-
-theme: jekyll-theme-cayman
