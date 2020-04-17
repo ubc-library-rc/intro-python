@@ -19,9 +19,12 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 * Understand the basic commands of Python and how to use SYZYGY environment
 
+* Learn the basic data structures available on Python
+
 * Learn how to load, preprocess, and explore data
 
-* Learn ...
+* Explore two practical (and more advanced) problems
+
 
 ### Schedule
 

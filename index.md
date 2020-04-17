@@ -33,4 +33,6 @@ ___
 
     * This might be more challenging and the course material or instructors do not guarantee support with problems in your local environment
 
+    * You can find setup instructions [here](https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/)
+
 <img src="{{site.baseurl}}/content/figures/xkcd-python.png"> [source](https://xkcd.com/353/)
