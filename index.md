@@ -23,20 +23,14 @@ Please bring a laptop for the workshop. You **don't** need to have Python instal
 
 1. Download the data for this workshop and save it in a folder of your preference
 
-    * Data is available [here](https://github.com/ubc-library-rc/intro-r/raw/master/data.rar). You have to extract the csv files from `data.rar`
+    * Data is available [here](https://github.com/ubc-library-rc/intro-python/raw/master/data.rar). You have to extract the files from `data.rar`
 
         * You might need to install [Winrar](https://www.win-rar.com/start.html?&L=0) to decompress the data [Windows users]
-
-    * `CarbonDioxideEmission.csv` - contains data about the emission of carbon dioxide
- 
-    * `GlobalLandTemperaturesByCountry.csv` - contains data about earth average temperature on a certain date
-
-    
-
-1. Add a small description about yourself in [this document](https://docs.google.com/document/d/1NSgZucRWe1UCAsNc0wjlN9JssWdVAcI2gvSqkDeGL_o/edit?usp=sharing)
 
 ___
 
 * **Alternatively**, you can try to [install the Python programming language](https://www.python.org/) on your personal laptop. 
 
     * This might be more challenging and the course material or instructors do not guarantee support with problems in your local environment
+
+<img src="{{site.baseurl}}/content/figures/xkcd-python.png"> [source](https://xkcd.com/353/)

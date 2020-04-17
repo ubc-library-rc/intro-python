@@ -256,7 +256,6 @@ data = dict(
 Input
 {: .label .label-green }
 ```python
-
 current_line = 0
 with open('year_temperature_carbon_emission.csv', 'r') as f:
     lines = f.readlines() 
@@ -286,12 +285,13 @@ Output
 3. It seems we have some pre-processing steps ahead:
     - The extra line between each print means that there is a `\n` in the line variable. Remove it with `.replace('\n', '')`
     - We need to split lines by comma `.split(',')` and store the result in a variable `aux`
-    - create three variables year, temp, carbon whose value will be equal to `aux[some index]`
-    - append the variables to our dictionary keys, e.g., `data['temperature'].append(temp)`
-    - how do we skip the first line with the header?
+    - Create three variables year, temp, carbon whose value will be equal to `aux[some index]`
+    - Append the variables to our dictionary keys, e.g., `data['temperature'].append(temp)`
+    - How do we skip the first line with the header?
+    - How do we convert strings to numerical data?
 
 
-If we are on track, try to do that on your own.
+If we are on track, try to do the first steps on your own.
 {: .warn}
 
 <br>

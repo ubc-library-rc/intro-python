@@ -35,6 +35,14 @@ x + y # sum
 Input
 {: .label .label-green }
 ```python
+z = 1
+z += 1 # increment by one
+z 
+```
+
+Input
+{: .label .label-green }
+```python
 y**x # power
 ```
 

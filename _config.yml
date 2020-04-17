@@ -1,4 +1,4 @@
-title: "Introduction to R"
+title: "Introduction to Python"
 remote_theme: ubc-library-rc/rc-workshop-template
 color_scheme: "nil"
 search_enabled: false
@@ -6,4 +6,4 @@ aux_links:
   "UBC Library Research Commons Workshops":
     - "https://researchcommons.library.ubc.ca/workshops/"
 heading_anchors: false
-footer_content: "<a href=\"https://github.com/ubc-library-rc/intro-r/\">View workshop content in GitHub</a>"
+footer_content: "<a href=\"https://github.com/ubc-library-rc/intro-python/\">View workshop content in GitHub</a>"

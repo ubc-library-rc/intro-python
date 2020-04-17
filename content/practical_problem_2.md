@@ -5,7 +5,7 @@ parent: Outline
 nav_order: 7
 ---
 
-## Two Sample Python Programs (cont.)
+## Another Sample Python Program
 
 We might skip this program depending on group needs
 {: .warn}

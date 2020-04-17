@@ -2,7 +2,7 @@
 
 ### UBC Library Research Commons
 
-Link to workshop: https://ubc-library-rc.github.io/intro-r
+Link to workshop: https://ubc-library-rc.github.io/intro-python
 
 The workshop content was adapted from [Introduction to Python](https://github.com/marquesarthur/research-commons-python-workshop/blob/master/Python%20workshop.ipynb). Both the source material and this revised version are available under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) license.
 
