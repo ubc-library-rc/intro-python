@@ -5,7 +5,7 @@ aux_links:
   "UBC Library Research Commons Workshops":
     - "https://researchcommons.library.ubc.ca/workshops/"
 heading_anchors: false
-github_repo_url: "https://github.com/ubc-library-rc/r-stats/"
+github_repo_url: "https://github.com/ubc-library-rc/intro-python/"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
